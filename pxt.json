@@ -10,7 +10,9 @@
         "README.md",
         "main.ts",
         "_locales/zh/pxt-mijiasonic-strings.json",
-        "_locales/zh/pxt-mijiasonic-jsdoc-strings.json"
+        "_locales/zh/pxt-mijiasonic-jsdoc-strings.json",
+        "_locales/pxt-mijiasonic-strings.json",
+        "_locales/pxt-mijiasonic-jsdoc-strings.json"
 
     ],
     "testFiles": [
