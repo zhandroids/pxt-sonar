@@ -1,0 +1,8 @@
+{
+  "sonar": "Sonar and ping utilities",
+  "sonar.ping": "Send a ping and get the echo time (in microseconds) as a result",
+  "sonar.ping|param|echo": "echo pin",
+  "sonar.ping|param|maxCmDistance": "maximum distance in centimeters (default is 500)",
+  "sonar.ping|param|trig": "tigger pin",
+  "sonar.ping|param|unit": "desired conversion unit"
+}

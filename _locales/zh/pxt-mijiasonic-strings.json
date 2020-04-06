@@ -1,0 +1,8 @@
+{
+  "PingUnit.Centimeters|block": "厘米",
+  "PingUnit.Inches|block": "英寸",
+  "PingUnit.MicroSeconds|block": "微秒",
+  "sonar.ping|block": "trig连接到 %trig|echo连接到 %echo|单位 %unit",
+  "sonar|block": "超声波",
+  "{id:category}Sonar": "超声波"
+}

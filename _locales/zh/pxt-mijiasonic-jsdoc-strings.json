@@ -1,0 +1,8 @@
+{
+  "sonar": "超声波",
+  "sonar.ping": "",
+  "sonar.ping|param|echo": "echo 引脚",
+  "sonar.ping|param|maxCmDistance": "最大距离，单位是厘米，默认500",
+  "sonar.ping|param|trig": "tigger 引脚",
+  "sonar.ping|param|unit": ""
+}
